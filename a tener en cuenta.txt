@@ -1,0 +1,5 @@
+puntos a tener en cuenta
+como enviar pin de recuperación al correo o por mensaje de texto
+como se manejara el control de permisos
+sistema de nomina
+roles crear ingreso para admin , empleado , contador
