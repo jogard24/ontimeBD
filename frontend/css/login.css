@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: black; */
+    background-image: url(../img/fondooficina.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contenedor-login{
+    display: flex;
+    /* flex-direction:    ; */
+    gap: 20px;
+    margin-top: 200px;
+    /* align-items: center ; */
+    justify-content: center;
+}
+
+.botones-rol {
+    border-color: black;
+    border: 20px;
+    height: 500px;
+    width: 500px;
+    background-color: #1d94ef6c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.boton-logo {
+    border: 5px;
+    height: 500px;
+    width: 500px;
+    background-color: rgba(199, 199, 199, 0.644);
+    background-image: url(/img/logo\ sinfondo.png);
+}
+
+.bt-style{
+    background-color: rgba(0, 0, 0, 0.425);
+    color: rgb(255, 255, 255);
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    /* justify-content: center; */
+}
+
