@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/fondooficina.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dash {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin:10px auto;
+    margin-top: 20px;
+
+    height: 900px;
+    width: 1850px;
+    background-color: rgba(0, 255, 255, 0.342);
+}
